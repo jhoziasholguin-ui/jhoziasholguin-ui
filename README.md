@@ -1,64 +1,53 @@
-<h1 align="center">Hola 👋  soy Josias / Josh-dev ✨ </h1> 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=170&section=header&text=Josias%20Holguin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20.NET&descAlignY=60&descSize=16" width="100%" />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/antonio-dev-b71146213/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@Anton-dev3306"/></a>
-<a href = "mailto:antonioestudiante15@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Anton-dev3306"  /></a>
-  </p>
-<br>
-<h1 align=center>Sobre mi 😃</h1>
-<!--Intro start-->
-
-<div align="center">
-🎓 INFORMÁTICO
-💻 DESARROLLO BACKEND JAVA & .NET 
-
-📫 Contacto: **jhoziasholguin@gmail.com**  
-</div>
-
-
-<br>
-
-<h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
-<!--tech stack icons-->
-<div align=center>
-   <h3>Frontend</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,tailwind&theme=light" />
+  <a href="www.linkedin.com/in/josias-samuel-holguin-evangelista-0a3279333">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <h3>Backend</h3>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,docker&theme=light" />
+  <a href="mailto:jhoziasholguin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-   <h3>AI Engineering</h3>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,supabase,bots&theme=light" />
-  </a>
-    <h3>Tools</h3>
-     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
-  </a>
-  </div>
-<br>
-<div align=center>
-  <h1> Mis estadisticas </h1> 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
-<br>
-  </div>
-<div align=center>
-<!--- stats & Trophy (start) -->
-<a href="https://github.com/Anton-dev3306">
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anton-dev3306&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton-dev3306&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</div>
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Anton-dev3306&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+</p>
 
-------
-[Anton-dev3306](https://github.com/Anton-dev3306)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Estudiante+de+Computación+e+Informática;Backend+Java+%26+.NET;Aprendiendo+y+construyendo+software" />
+</p>
 
-Last Edited on: 12/07/2025
+## 👨🏻‍💻 Sobre mí
+
+Estudiante de sexto ciclo de **Computación e Informática en Cibertec**, orientado al desarrollo backend con **Java, Spring Boot y C#/.NET**. Me interesa construir aplicaciones con arquitectura por capas, bases de datos relacionales y buenas prácticas de desarrollo. Actualmente sigo fortaleciendo mis conocimientos en desarrollo de software y tecnologías cloud.
+
+## 🛠️ Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,kotlin,js,mysql,html,css,androidstudio,firebase,azure&theme=dark" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,postman,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <sub>Spring Security · Hibernate/JPA · Entity Framework · ADO.NET · Thymeleaf · SQL Server · Aiven</sub>
+</p>
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 📚 **Librería Oasis** | Sistema web de gestión de libros, clientes, préstamos y ventas. Incluye autenticación y roles. | Java · Spring Boot · MySQL |
+| 🏥 **Gestión para Clínicas** | Sistema web CRUD para administrar pacientes e historiales de atención. | C# · ASP.NET MVC · Entity Framework |
+| 💈 **Citas para Barbería** | Aplicación Android para gestionar reservas y citas. | Kotlin · MVVM · Firebase |
+
+<p align="center">
+  <a href="URL_REPOSITORIO_OASIS">Librería Oasis</a> ·
+  <a href="URL_REPOSITORIO_CLINICA">Gestión para Clínicas</a> ·
+  <a href="URL_REPOSITORIO_BARBERIA">Citas para Barbería</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Codificar es escribir poesia para máquinas".</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=90&section=footer" width="100%" />
