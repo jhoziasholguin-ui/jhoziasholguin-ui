@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=160&section=header&text=I'm%20Josias%20Holguin&fontSize=42&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&color=0:8E0E00,100:E52D2&height=160&section=header&text=I'm%20Josias%20Holguin&fontSize=42&fontColor=ffffff" width="100%" />
 </p>
 
 <p align="center">
@@ -56,4 +56,4 @@ Estudiante de sexto ciclo de **Computación e Informática en Cibertec**, orient
   <i>"Codificar es escribir poesia para máquinas".</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=90&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E0E00,100:E52D2&height=90&section=footer" width="100%" />
