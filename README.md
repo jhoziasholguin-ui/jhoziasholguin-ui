@@ -1,5 +1,7 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=170&section=header&text=Josias%20Holguin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20.NET&descAlignY=60&descSize=16" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=160&section=header&text=I'm%20Josias%20Holguin&fontSize=42&fontColor=ffffff" width="100%" />
+</p>
 
 <p align="center">
   <a href="www.linkedin.com/in/josias-samuel-holguin-evangelista-0a3279333">
@@ -11,7 +13,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Estudiante+de+Computación+e+Informática;Backend+Java+%26+.NET;Aprendiendo+y+construyendo+software" />
+  <strong>Estudiante de Computación e Informática</strong>
+  <br />
+  Backend Developer | Java & .NET
+  <br />
+  Interesado en arquitectura de software y ciberseguridad.
 </p>
 
 ## 👨🏻‍💻 Sobre mí
