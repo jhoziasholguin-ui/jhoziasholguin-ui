@@ -7,7 +7,7 @@
   <a href="http://www.linkedin.com/in/josias-samuel-holguin-evangelista-0a3279333">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jhoziasholguin@gmail.com">
+  <a href="http://mailto:jhoziasholguin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
